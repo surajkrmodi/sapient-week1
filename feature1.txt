@@ -1,2 +1,6 @@
 This is feature branch,
+<<<<<<< HEAD
 This the second line for changes I am editing new.
+=======
+This the 2nd line for changes.
+>>>>>>> f80d33e854745de4fc4eb066882993799dfb2a0b

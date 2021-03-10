@@ -1,0 +1,1 @@
+This is feature2 under the folder in feature branch.

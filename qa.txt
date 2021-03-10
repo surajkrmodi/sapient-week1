@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is Q/A branch edited by RO
+=======
+This is Q/A branch
+checking for merge conflict
+>>>>>>> 60c8e10465e366fd56e0b97b3ac244d9b4cbf39c
